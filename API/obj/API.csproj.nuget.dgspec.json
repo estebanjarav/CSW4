@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usr\\Downloads\\reactivities2\\API\\API.csproj": {}
+    "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usr\\Downloads\\reactivities2\\API\\API.csproj": {
+    "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usr\\Downloads\\reactivities2\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\usr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usr\\Downloads\\reactivities2\\API\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\usr\\Downloads\\reactivities2\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Application\\Application.csproj"
+              "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Application\\Application.csproj"
               }
             }
           }
@@ -75,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\usr\\Downloads\\reactivities2\\Application\\Application.csproj": {
+    "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usr\\Downloads\\reactivities2\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\usr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Application\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -101,11 +101,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\usr\\Downloads\\reactivities2\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Persistence\\Persistence.csproj"
+              "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -134,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\usr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -186,21 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\usr\\Downloads\\reactivities2\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usr\\Downloads\\reactivities2\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\usr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -212,8 +212,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\usr\\Downloads\\reactivities2\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\TDEA2021-2\\CONSTRUCCION V\\reactivities2\\Domain\\Domain.csproj"
               }
             }
           }
@@ -248,7 +248,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
